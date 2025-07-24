@@ -1,7 +1,7 @@
 # Dobrunia Design
 
-![Status](https://status.mimisiku.dev/api/badge/2/status)
-![Uptime](https://status.mimisiku.dev/api/badge/2/uptime)
+![Status](https://status.uplg.xyz/api/badge/2/status)
+![Uptime](https://status.uplg.xyz/api/badge/2/uptime)
 
 [Website](https://dobruniadesign.com)
 
@@ -9,8 +9,8 @@
 
 - **State:** wip
 - **Production:** [https://dobruniadesign.com](https://dobruniadesign.com/)
-- **GitHub:** [https://github.com/m1m1s1ku/dobrunia-design](https://github.com/m1m1s1ku/dobrunia-design)
-- **Point People:** [@m1m1s1ku](https://github.com/m1m1s1ku)
+- **GitHub:** [https://github.com/uplg/dobrunia-design](https://github.com/uplg/dobrunia-design)
+- **Point People:** [@uplg](https://github.com/uplg)
 
 ## License
 
